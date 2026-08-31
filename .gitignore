@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.lib
+*.pdb
+*.ilk
+*.pch
+
+# Build directories
+build/
+out/
+cmake-build-*/
+
+# Temporary/log files
+*.tmp
+*.log
+*.dmp
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Windows
+Thumbs.db
+Desktop.ini
